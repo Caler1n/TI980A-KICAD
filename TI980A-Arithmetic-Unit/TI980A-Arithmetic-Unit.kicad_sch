@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4b9c7c83-00d3-42c3-8b3f-6fc1a0aef9e2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 153.035 63.5)
+		(size 29.845 52.705)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "254afd1a-58c3-42ae-8ce1-4243124b5f6b")
+		(property "Sheetname" "Arithmetic Board 2"
+			(at 153.035 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AU2.kicad_sch"
+			(at 153.035 116.7896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TI980A-Arithmetic-Unit"
+				(path "/4b9c7c83-00d3-42c3-8b3f-6fc1a0aef9e2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 63.5)
+		(size 36.83 56.515)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a7b801e9-43c5-46ce-a4bc-23b9d52dc092")
+		(property "Sheetname" "Arithmetic Board 1"
+			(at 50.8 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AU1.kicad_sch"
+			(at 50.8 120.5996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TI980A-Arithmetic-Unit"
+				(path "/4b9c7c83-00d3-42c3-8b3f-6fc1a0aef9e2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
