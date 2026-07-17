@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "4b9c7c83-00d3-42c3-8b3f-6fc1a0aef9e2")
 	(paper "A4")
+	(title_block
+		(title "960713-9901")
+		(company "Texas Instruments")
+		(comment 1 "TI980A Arithmetic Unit")
+		(comment 2 "Derived from Maintenance Manual VIII & IX")
+	)
 	(lib_symbols)
 	(sheet
 		(at 153.035 63.5)
