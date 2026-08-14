@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TI980-Backplane") (type "KiCad") (uri "${KIPRJMOD}/TI980-Backplane.pretty") (options "") (descr ""))
+)
