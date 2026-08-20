@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TI980-Backplane") (type "KiCad") (uri "C:/Users/grace/Documents/Github/TI980A-KICAD/IO_Modules/IO_Interface_Card/TI980-Backplane.pretty") (options "") (descr ""))
+)
